@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  coturn:
+  - apiVersion: v2
+    appVersion: 4.5.2
+    created: "2022-06-06T19:41:13.903051+09:00"
+    description: A Helm chart for Coturn
+    digest: 96cce3ba576e788d18a21615cb61fb8d7da6c33d892dcdbaa9e0c5c4c5c2d2da
+    name: coturn
+    type: application
+    urls:
+    - coturn-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-06-06T19:41:13.899238+09:00"
