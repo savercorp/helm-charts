@@ -6,6 +6,6 @@ fi
 mkdir tmp
 mv $1 tmp/
 helm repo index --merge index.yaml tmp
-mv tmp/index.yaml index.yaml
+mv tmp/* .
 rm -rf tmp
 git diff
