@@ -14,7 +14,7 @@ entries:
   janus-cloud:
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2022-06-08T20:18:34.7019+09:00"
+    created: "2022-06-09T14:24:05.197001+09:00"
     dependencies:
     - condition: coturn.enabled
       name: coturn
@@ -23,10 +23,10 @@ entries:
       - janus-cloud-turn
       version: 0.x.x
     description: A Helm chart for Janus Cloud
-    digest: fa71111b08b29952bb30133cdd3bbf86f8ab3b3b1bb99a2e1b194d538d0d96be
+    digest: 2b63ae06036e3b214553cfed621e9c36a357279e07defab376b8ce8744f3494a
     name: janus-cloud
     type: application
     urls:
     - janus-cloud-0.0.1.tgz
     version: 0.0.1
-generated: "2022-06-08T20:18:34.696515+09:00"
+generated: "2022-06-09T14:24:05.191077+09:00"
